@@ -1,0 +1,36 @@
+body {
+    background-color: #cccccc;
+    
+}
+
+#container {
+    background-color: #fff;
+    width: 80%;
+    margin-left: 10%;
+}
+#atas {
+	border-bottom: 3px solid black;
+	padding-top: 10px;
+}
+#header {
+	border-bottom: 3px solid black;
+}
+
+#logo {
+    border-radius: 100em;
+    opacity: 0,5;
+    height: 20px;
+    float: left;
+	padding-top: 28px;
+}
+#logokanan {
+    border-radius: 100em;
+    opacity: 0,5;
+    height: 20px;
+    float: right;
+	padding-top: 28px;
+}
+#judul {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
