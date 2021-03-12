@@ -1,0 +1,190 @@
+.sitemap {
+	margin-top: 30px !important;
+}
+
+.aboutus {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+	.aboutus .fotous {
+		width: 100% !important;
+		height: 300px !important;
+		margin-top: 20px !important;
+		margin-bottom: 20px !important;
+	}
+
+.aboutnav {
+	background: #228b22 !important;
+	border: 0 !important;
+	border-radius: 0 !important;
+}
+
+	.aboutnav .navbar-brand {
+		color: white !important;
+	}
+
+	.aboutnav .collapse .nav li a {
+		color: white !important;
+	}
+
+	.aboutnav .icon-bar {
+		background: white !important;
+	}
+
+.footerku {
+	background: #333333; 
+	/*background di atas untuk mengubah warna background kamu */
+}
+
+	.footerku h5 {
+		margin: 30px !important;
+	}
+
+.ourteam {
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+
+	.ourteam .header-title {
+		margin-bottom: 50px;
+	}
+
+	.ourteam .header-title h2 {
+		font-weight: bold !important;
+		text-align: center;
+	}
+
+	.ourteam .header-title p {
+		text-align: center;
+	}
+
+.ourportfolio {
+	padding-top: 80px;
+	padding-bottom: 80px; 
+}
+	
+	.ourportfolio .tab-content {
+		margin-top: 20px !important;
+	}
+
+	.ourportfolio .btn-preview {
+		margin-top: 10px;
+		margin-bottom: 20px;
+	}
+
+	.ourportfolio .header-title {
+		margin-bottom: 50px;
+	}
+
+	.ourportfolio .header-title h2 {
+		font-weight: bold !important;
+		text-align: center;
+	}
+
+	.ourportfolio .header-title p {
+		text-align: center;
+	}
+
+.joinus {
+	background: #333333 !important;
+	color: white !important;
+}
+
+	.joinus h2 {
+		color: #228b22 !important;
+	}
+
+	.joinus .btn-join {
+		margin-top: 40px;
+	}
+
+.whatwedo {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+	
+	.whatwedo .content h3 i {
+		background: #228b22;
+		padding: 10px;
+		color: white;
+		border-radius: 3px;
+	}
+
+	.whatwedo .content h3 {
+		font-weight: bold !important;
+	}
+
+	.whatwedo .header-title {
+		margin-bottom: 50px;
+	}
+
+	.whatwedo .header-title h2 {
+		font-weight: bold !important;
+		text-align: center;
+	}
+
+	.whatwedo .header-title p {
+		text-align: center;
+	}
+
+.homenav {
+	position: absolute !important;
+	width: 100% !important;
+	z-index: 10;
+	background: rgba(0, 0, 0, 0.5) !important;
+	border-radius: 0 !important;
+	border: 0 !important;
+}
+	
+	.homenav .icon-bar {
+		background: white !important;
+	}
+
+	.homenav .navbar-header .navbar-brand {
+		color: white !important;
+	}
+
+	.homenav .collapse li a {
+		color: white !important;
+		transition: all 1s;
+	}
+
+	.homenav .collapse li a:hover {
+		color: #228b22 !important;
+	}
+
+#owl-demo {
+	position: relative;
+}
+	
+	#owl-demo .content {
+		width: 70%;
+		overflow: hidden;
+		position: absolute;
+		bottom: 35%;
+		left: 15%;
+	}
+
+	#owl-demo .content h1, #owl-demo .content p, #owl-demo .content button {
+		color: white !important;
+		padding: 10px !important;
+	}
+
+	#owl-demo .item img{
+		display: block;
+		width: 100%;
+		height: 550px;
+	}
+
+	#owl-demo .owl-pagination {
+		position: absolute;
+		bottom: 30px;
+		left: 46%;
+	}
+
+	#owl-demo .owl-pagination span {
+		background: white !important;
+	}
+	
+	
